@@ -1,6 +1,6 @@
 - 👋 Oi, estou Carlos Lima
 - 👀 estou interessado em Flutter
-- 🌱 estou cursando desenvolvimento mobile pelo Centro Universitário Estácio do Ceará
+- 🌱 Formado em desenvolvimento mobile pelo Centro Universitário Estácio do Ceará
 
 <div>
   <a href="https://beacons.ai/rafaballerini">
