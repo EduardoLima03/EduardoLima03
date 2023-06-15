@@ -1,4 +1,4 @@
-- 👋 Oi, estou Carlos Lima
+- 👋 Oi
 - 👀 estou interessado em Flutter
 - 🌱 Formado em desenvolvimento mobile pelo Centro Universitário Estácio do Ceará
 
