@@ -16,6 +16,7 @@ Estou aberto a novas oportunidades na área de TI, onde posso contribuir com meu
   <a href="https://github.com/EduardoLima03">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoLima03&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoLima03&layout=compact&langs_count=16&theme=dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eduardoLima03"/>
 </div>
 
 <!---
