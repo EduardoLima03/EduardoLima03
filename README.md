@@ -1,17 +1,18 @@
+# Oi, me chamo Carlos E. Lima 👍
+
+## Sobre mim
+- 🎓 Sou Pós-graduado em Desenvolvimento Mobile na [Universidade Estácio](https://estacio.br/cursos/pos-graduacao/desenvolvimento-mobile)
 - 👀 estou interessado em Flutter
-
-<p>Olá! Sou um profissional de Tecnologia da Informação com experiência como Auxiliar de TI e Fiscal de Prevenção de Perdas. Atualmente, estou trabalhando na Mercantil Medeiros Ltda como Auxiliar de TI, onde sou responsável pelo controle de estoque de produtos perecíveis, atividades de conferente, separação de mercadorias, prevenção de perdas, operação de CFTV e fiscalização de salão. Antes disso, atuei como Operador de Circuito Interno de Câmeras na Auto Viação São José, onde era responsável por monitorar as câmeras instaladas nos veículos de transporte público e realizar a geolocalização dos veículos.
-
-Tenho formação acadêmica em Análise e Desenvolvimento de Sistemas pelo Centro Universitário Estácio do Ceará, onde adquiri conhecimentos em instalação de software, análise de sistemas, SQL, programação orientada a objetos (POO), Git, JSON e banco de dados. Além disso, possuo uma pós-graduação em Desenvolvimento Mobile pelo mesmo centro universitário, com habilidades em instalação de software, aplicativos móveis, SQL, POO, Git, JSON e banco de dados.
+- 👨‍💻 Ainda não atuo diretamente com programação, mas, estou na área com suporte técnico.
 
 Durante minha formação, participei de projetos como o [Medeiros Validade](https://play.google.com/store/apps/details?id=br.dev.carloslima.medeiros_validade) na Mercantil Medeiros Ltda, onde desenvolvi um programa que facilita o cadastro de validade de produtos, utilizando um aplicativo Android, uma API REST para validação de dados e o Google Sheets para armazenamento das informações. Também desenvolvi um software de gerenciamento de serviços de manutenção de microcomputadores na [CL Informática](https://github.com/EduardoLima03/clinformatica), utilizando a linguagem Java. Além disso, participei do projeto [FollowPet](https://eduardolima03.github.io/followpet/), um aplicativo desenvolvido para cadastrar e controlar as vacinas de animais de estimação.
 
-Tenho habilidades em linguagens de programação, como Java, Flutter e Dart. Também possuo conhecimentos em SQL, Git, programação orientada a objetos, banco de dados e desenvolvimento de aplicativos móveis.
+## 🛠 Tech Stack
+![dart](https://camo.githubusercontent.com/b39cdecbda320ad50c55bf73a611e5321d6e41970edf2a959ead02886812f50d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446172742d3035313232413f7374796c653d666c6174266c6f676f3d64617274266c6f676f436f6c6f723d303037414343)
+![flutter](https://camo.githubusercontent.com/6c035586aa2e2fa975f9d32e8d7b31bd5c0218e7604778781e444cffe731d2eb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f466c75747465722d3035313232413f7374796c653d666c6174266c6f676f3d666c7574746572266c6f676f436f6c6f723d303041444438)
+![github](https://camo.githubusercontent.com/7351faee49d112ce687af355939eb57f20d8d129da7255639aa64695f52e0cd9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3035313232413f7374796c653d666c6174266c6f676f3d676974687562266c6f676f436f6c6f723d303041444438)
 
-Estou sempre em busca de aprendizado e crescimento profissional. Sou uma pessoa dedicada, comprometida e disposta a enfrentar novos desafios. Tenho facilidade em aprender novas tecnologias e trabalho bem em equipe.
-
-Estou aberto a novas oportunidades na área de TI, onde posso contribuir com meus conhecimentos e experiências. Se você está em busca de um profissional comprometido e com vontade de crescer, estou disponível para conversarmos.</p>
-
+## 
 <div>
   <a href="https://github.com/EduardoLima03">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoLima03&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
