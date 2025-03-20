@@ -3,12 +3,13 @@
 ## Sobre mim
 - 🎓 Sou Pós-graduado em Desenvolvimento Mobile na [Universidade Estácio](https://estacio.br/cursos/pos-graduacao/desenvolvimento-mobile)
 - 👀 estou interessado em Flutter
-- 👨‍💻 Ainda não atuo diretamente com programação, mas, estou na área com suporte técnico.
+- 👨‍💻 Ainda não atuo diretamente com programação, mas, estou na área de T.I com suporte técnico.
 
-Durante minha formação, participei de projetos como o [Medeiros Validade](https://play.google.com/store/apps/details?id=br.dev.carloslima.medeiros_validade) na Mercantil Medeiros Ltda, onde desenvolvi um programa que facilita o cadastro de validade de produtos, utilizando um aplicativo Android, uma API REST para validação de dados e o Google Sheets para armazenamento das informações. Também desenvolvi um software de gerenciamento de serviços de manutenção de microcomputadores na [CL Informática](https://github.com/EduardoLima03/clinformatica), utilizando a linguagem Java. Além disso, participei do projeto [FollowPet](https://eduardolima03.github.io/followpet/), um aplicativo desenvolvido para cadastrar e controlar as vacinas de animais de estimação.
+## Projeitos Publicados
+[Medeiros Validade](https://play.google.com/store/apps/details?id=br.dev.carloslima.medeiros_validade) 
 
 ## 🛠 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=dart,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,dart,php,spring,flutter,laravel,mysql,postgres,sqlite,vscode,androidstudio,eclipse,ubuntu,windows)](https://skillicons.dev)
 
 
 
